@@ -35,7 +35,9 @@ log.error("error")
 now when you start the application you will see this on console
 
 [16/07/2022 21:09:32]| [AppName:LoggerInstance] | check +0ms
+
 [16/07/2022 21:09:32]| [AppName:DEBUG:LoggerInstance] | check +0ms
+
 [16/07/2022 21:09:32]| [AppName:ERROR:LoggerInstance] | check +0ms
 
 # Log output
