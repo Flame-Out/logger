@@ -1,5 +1,5 @@
 # Flame logger
-## To use the **flame logger** add in your entry file:
+## To use the **flame logger** insttal with `npm i @flame-out/logger` and add in your entry file:
 
 ```ts
 // src/index.ts
